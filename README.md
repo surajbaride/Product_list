@@ -3,15 +3,19 @@ Running the App
 Start the Metro Bundler:
 
 npx react-native start
+
 Explanation: Starts the Metro Bundler, which is required for React Native to bundle your JavaScript code.
 Run the App on an Android Emulator or iOS Simulator:
 
 For Android:
 npx react-native run-android
+
 Explanation: Builds and runs the app on an Android emulator or connected Android device.
 
 For iOS:
+
 npx react-native run-ios
+
 Explanation: Builds and runs the app on an iOS simulator or connected iOS device.
 
 
